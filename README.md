@@ -7,3 +7,6 @@ Learn To Use Binder
 
 One simple step at a time.
 -- Say Hello World!
+I got that to work from this link, but not from the badge above.
+
+https://hub.mybinder.org/user/gsdavid-toynotebook-zdyplztu/notebooks/index.ipynb
